@@ -1,0 +1,6 @@
+echo "# github-slideshow" >> README.md
+git init
+git add README.md
+git commit -m "first commi"
+git remote add origin http://github.com/LightOfVienna/github-slideshow.git
+git push -u origin master
